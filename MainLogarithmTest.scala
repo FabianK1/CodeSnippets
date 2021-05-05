@@ -2,7 +2,7 @@
 object MainTestLogarithm {
 
   //testcase to https://bl.ocks.org/d3indepth/30d31098b607b669a7874bf4ab3c9595
-
+  case class SDistanceDouble(val from: Double, val to: Double) 
   def main(args: Array[String]): Unit = {
 
     // correlating to d3js values
