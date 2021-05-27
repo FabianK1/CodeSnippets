@@ -7,3 +7,4 @@
 1622043522459:set ThisBuild / scalaVersion := "2.12.3"
 1622043538291:scalaVersion
 1622043545517:session save
+1622118517715:exit
