@@ -1,3 +1,5 @@
+package com.github.fabiank1.scala.code.snippets
+
 object MainTester {
   def main(args: Array[String]): Unit = {
 

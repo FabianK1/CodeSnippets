@@ -1,3 +1,5 @@
+package com.github.fabiank1.scala.code.snippets
+
 object SCalculationType {
   val LOG = new SCalculationType {
     override def applyTo(value: Double) = {
