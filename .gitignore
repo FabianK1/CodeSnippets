@@ -1,3 +1,16 @@
 *.class
 *.log
-/build/
+.idea
+.cache
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings/
+datax.jar
+extsrc
+console.devmode.log
+bin/
+build/
+target
+project/target
