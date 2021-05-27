@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/codesnippets_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SCalculationType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/SCalculationType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SCalculationType$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/SCalculationType$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/testfile$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/example/testfile$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/testfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/example/testfile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/testfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/example/testfile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainTestLogarithm$SDistanceDouble$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/MainTestLogarithm$SDistanceDouble$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SCalculationType$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/SCalculationType$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainTestLogarithm$SDistanceDouble.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/MainTestLogarithm$SDistanceDouble.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainTester$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/MainTester$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainTestLogarithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/MainTestLogarithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SCalculationType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/SCalculationType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainTestLogarithm.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/MainTestLogarithm.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainTester.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/fabk/GitHubProjects/CodeSnippets/target/scala-2.12/classes/MainTester.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
