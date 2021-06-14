@@ -3,16 +3,25 @@ package com.github.fabiank1.scala.code.snippets
 object MainTester {
   def main(args: Array[String]): Unit = {
 
-    logTest()
+    Test.CALCULATIONTYPE.log(10)
   }
 
-  protected def logTest() = {
-    val logTest = SCalculationType.LOG
-    val originalValue = 10
-    val transformedValue = logTest.applyTo(originalValue)
-    val checkReformedValue = logTest.revert(transformedValue)
-
-    println(transformedValue)
-    println(checkReformedValue)
+  object Test {
+    
+    object CALCULATIONTYPE {
+      def log(baseValue: Int) = {
+        val transformedValue = SCalculationType.LOG.applyTo(baseValue)
+        val checkReformedValue = SCalculationType.LOG.revert(transformedValue)
+        println(transformedValue)
+        println(checkReformedValue)
+      }
+      def linear(baseValue: Int) = {
+        val transformedValue = SCalculationType.LOG.applyTo(baseValue)
+        val checkReformedValue = SCalculationType.LOG.revert(transformedValue)
+        println(transformedValue)
+        println(checkReformedValue)
+      }
+    }
   }
+
 }

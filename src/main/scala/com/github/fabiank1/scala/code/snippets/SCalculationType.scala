@@ -16,6 +16,7 @@ object SCalculationType {
         }
       }
     }
+    
     override def revert(value: Double) = {
       val sign = Math.signum(value)
 
@@ -26,6 +27,7 @@ object SCalculationType {
       }
     }
   }
+  
   val LINEAR = new SCalculationType {
     override def applyTo(value: Double) = {
       value
